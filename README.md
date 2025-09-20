@@ -7,13 +7,20 @@ It fetches live crypto prices from public APIs and displays them in a simple, cu
 
 ## 📑 Table of Contents
 
-- [📘 About](#-about)  
-- [✨ Features](#-features)  
-- [⚡ Getting Started](#-getting-started)  
-- [🖥️ Usage](#️-usage)  
-- [🤝 Contributing](#-contributing)  
-- [📜 License](#-license)  
-- [📬 Contact](#-contact)  
+- [� crypto-ticker](#-crypto-ticker)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [📘 About](#-about)
+  - [✨ Features](#-features)
+  - [⚡ Getting Started](#-getting-started)
+    - [1️⃣ Clone the repo](#1️⃣-clone-the-repo)
+    - [2️⃣ Install dependencies](#2️⃣-install-dependencies)
+    - [3️⃣ (Optional) Set API keys if required](#3️⃣-optional-set-api-keys-if-required)
+    - [4️⃣ Run the ticker](#4️⃣-run-the-ticker)
+  - [🖥️ Usage](#️-usage)
+  - [🤝 Contributing](#-contributing)
+    - [Steps to Contribute](#steps-to-contribute)
+  - [📜 License](#-license)
+  - [📬 Contact](#-contact)
 
 ---
 
@@ -104,6 +111,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 - 👤 **Author**: *emsikes*  
 - 💻 **GitHub**: [emsikes](https://github.com/emsikes)  
-- ✉️ **Email**: your‑email@example.com (optional)  
 
 ---
